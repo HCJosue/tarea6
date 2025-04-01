@@ -1,0 +1,3 @@
+Para su uso colocaremos la base de datos usados 
+Hay dos usuarios nomrales los cuales son josue123 y prueba123 con contrasena huiza y 123 respectivamente
+Hay un administrador que su usuario es admin y contrasena es 123456
